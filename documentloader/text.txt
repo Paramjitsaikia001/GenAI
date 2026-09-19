@@ -1,0 +1,3 @@
+About me :
+I'm a passionate developer with a knack for creating dynamic and responsive web applications. My journey in tech has been fueled by curiosity and a desire to solve real-world problems.
+I specialize in front-end development, with a strong focus on JavaScript frameworks like React and Vue.js. I enjoy crafting intuitive user interfaces and ensuring seamless user experiences. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through tech blogs and workshops. My goal is to continue growing as a developer and make a positive impact in the tech community.
